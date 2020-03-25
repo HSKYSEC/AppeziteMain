@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931793500762",
+    "firebase_url": "https://appezite-1105e.firebaseio.com",
+    "project_id": "appezite-1105e",
+    "storage_bucket": "appezite-1105e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931793500762:android:0686504c1e4a328fc0f663",
+        "android_client_info": {
+          "package_name": "com.example.appezitemain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931793500762-ma7hknk50urmculffb7b2i7cp7ctpi4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAORt06icm45npvakofs5Do4haMySOkSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931793500762-ma7hknk50urmculffb7b2i7cp7ctpi4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
